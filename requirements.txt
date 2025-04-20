@@ -2,7 +2,8 @@ faicons==0.2.2
 shiny==1.1.0
 shinywidgets==0.3.3
 plotly==5.24.1
-pandas==2.2.2
+pandas==2.0.3
 ridgeplot==0.1.25
 joblib
 scikit-learn
+numpy==1.24.3
