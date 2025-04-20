@@ -3,7 +3,6 @@ from shiny import ui, render, reactive
 import pandas as pd
 import joblib
 import numpy as np
-
 # Load the logistic regression model
 model_old = joblib.load("logreg_py.joblib")
 
